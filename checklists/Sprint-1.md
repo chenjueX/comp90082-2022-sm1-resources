@@ -1,5 +1,4 @@
 # Sprint 1 Assessment Checklist
-This checklist helps you double check your work for Sprint 1. 
 
 
 ## Background description, client goals, motivation
