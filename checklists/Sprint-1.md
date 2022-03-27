@@ -48,4 +48,6 @@ Make sure that your Personas satisfies the following criteria:
 
 ## Additional Information
 
-*do you have any other additional information you'd like to share with us? Please add it here.*
+## Test Cases
+
+For each user story, we have a set of preconditions, expected results, and postconditions developed for a particular test scenario in order to verify compliance against a specific requirement.
