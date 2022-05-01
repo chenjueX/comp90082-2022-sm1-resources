@@ -55,3 +55,4 @@ Make sure that:
 ## Additional Information
 - At the beginning of sprint 2, we did a retrospective summary for sprint 1. We discussed what strengths and weaknesses we had in the development process, and also what we are supposed to do to correct our weaknesses.
 - At the end of this sprint, we also did a retrospective summary to check whether the previous problems have been solved. Besides, we did a group code review to let each team member know what functions have been developed and what bugs are still existing.
+- We redrew a structure diagram to show the framework of the project, due to the new pages, functions, API, etc.
